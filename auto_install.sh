@@ -5,6 +5,6 @@ mv *.ttf ~/.local/share/fonts
 cp -r alacritty ~/.config
 cp -r ohmyposh ~/.config 
 
-yay -S heroku jetbrains-toolbox discord slack code oh-my-posh alacritty nvm spotify
-ssh-keygen
-cat ~/.ssh/id_rsa.pub
+yay -S heroku-cli jetbrains-toolbox discord slack code oh-my-posh alacritty nvm spotify
+git config --global user.name IncSow
+git config --global user.email helynt@dsifrance.fr
